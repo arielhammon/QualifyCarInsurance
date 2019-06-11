@@ -1,0 +1,11 @@
+C:\Users\ahammon3\source\repos\QualifyCarInsurance\bin\Debug\netcoreapp2.1\QualifyCarInsurance.deps.json
+C:\Users\ahammon3\source\repos\QualifyCarInsurance\bin\Debug\netcoreapp2.1\QualifyCarInsurance.runtimeconfig.json
+C:\Users\ahammon3\source\repos\QualifyCarInsurance\bin\Debug\netcoreapp2.1\QualifyCarInsurance.runtimeconfig.dev.json
+C:\Users\ahammon3\source\repos\QualifyCarInsurance\bin\Debug\netcoreapp2.1\QualifyCarInsurance.dll
+C:\Users\ahammon3\source\repos\QualifyCarInsurance\bin\Debug\netcoreapp2.1\QualifyCarInsurance.pdb
+C:\Users\ahammon3\source\repos\QualifyCarInsurance\obj\Debug\netcoreapp2.1\QualifyCarInsurance.csprojAssemblyReference.cache
+C:\Users\ahammon3\source\repos\QualifyCarInsurance\obj\Debug\netcoreapp2.1\QualifyCarInsurance.csproj.CoreCompileInputs.cache
+C:\Users\ahammon3\source\repos\QualifyCarInsurance\obj\Debug\netcoreapp2.1\QualifyCarInsurance.AssemblyInfoInputs.cache
+C:\Users\ahammon3\source\repos\QualifyCarInsurance\obj\Debug\netcoreapp2.1\QualifyCarInsurance.AssemblyInfo.cs
+C:\Users\ahammon3\source\repos\QualifyCarInsurance\obj\Debug\netcoreapp2.1\QualifyCarInsurance.dll
+C:\Users\ahammon3\source\repos\QualifyCarInsurance\obj\Debug\netcoreapp2.1\QualifyCarInsurance.pdb
